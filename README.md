@@ -1,4 +1,4 @@
-# Python-Assignment-Pragyaam-Data-Technologies-
+# Python-Assignment-Pragyaam-Data-Technologies
 ### Prerequisites
 
 - A web browser 
